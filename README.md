@@ -17,7 +17,7 @@ Website: <https://www.biomaclab.com>
 
 **FISHNET-META** is a deep-learning classifier for fish taxonomic identification from **12S eDNA metabarcoding sequences**.
 
-It is designed as a practical classifier for researchers who want to classify unknown fish 12S sequences from FASTA files. The tool uses trained CNN fold models and a hierarchical taxonomy decoder to predict taxonomy from higher ranks down to species level.
+It is designed as a practical taxonomic classifier for researchers who want to classify unknown fish 12S sequences processed from metabarcoding reads through a standard bioinformatics pipeline. The tool uses trained CNN fold models and a hierarchical taxonomy decoder to predict taxonomy from higher ranks down to species level.
 
 FISHNET-META is intended to be used like other taxonomic classifiers: the user provides an input FASTA file, chooses a trained model region, and receives classification output files.
 
