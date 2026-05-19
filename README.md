@@ -1,6 +1,6 @@
 # FISHNET-META
 
-**Fish taxonomic Identification using sequence-based hierarchical neural network for 12S eDNA METAbarcoding**
+**Fish taxonomic Identification using sequence-based hierarchical neural network for 12S eDNA Metabarcoding**
 
 Developed and maintained by **BioMac Lab**  
 Website: <https://www.biomaclab.com>
