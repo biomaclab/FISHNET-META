@@ -1,0 +1,42 @@
+name: fishnet-meta
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - pip
+
+  # Deep learning / ML
+  - tensorflow=2.19=*cuda*
+  - keras
+  - keras-tuner
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - joblib
+  - h5py
+  - psutil
+
+  # Bioinformatics
+  - biopython
+  - blast
+  - vsearch
+  - entrez-direct
+
+  # Java support for optional external classifiers/workflows
+  - openjdk=17
+
+  # Utilities
+  - matplotlib
+  - tqdm
+  - requests
+  - pyyaml
+  - rich
+  - ipython
+
+  - pip:
+      - tensorboard==2.19.0

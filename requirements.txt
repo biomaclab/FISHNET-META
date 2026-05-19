@@ -1,0 +1,17 @@
+tensorflow==2.19.0
+keras
+keras-tuner
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+h5py
+psutil
+biopython
+matplotlib
+tqdm
+requests
+PyYAML
+rich
+tensorboard==2.19.0

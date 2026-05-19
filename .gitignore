@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Output folders
+results/
+outputs/
+logs/
+tmp/
+temp/
+
+# Large model files and biological data
+*.keras
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npz
+*.npy
+*.tar
+*.tar.gz
+*.zip
+*.gz
+
+# Large sequence/data files
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.sam
+*.bam
+*.cram
+
+# Allow small public examples
+!examples/*.fasta
+!examples/*.fa
+!examples/*.txt
+!examples/*.csv
+!docs/*.md
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
