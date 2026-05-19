@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-title: "FISHNET-META: Fish taxonomic Identification using sequence-based hierarchical neural network for 12S eDNA METAbarcoding"
+title: "FISHNET-META: Fish taxonomic Identification using sequence-based hierarchical neural network for 12S eDNA Metabarcoding"
 message: "If you use FISHNET-META, please cite this software and the related publication."
 type: software
 authors:
-  - name: "BioMac Lab"
+  - name: "Sk Injamamul Islam, Khandker Shahed, Michael van den Heuvel"
+    company: "BioMac Lab"
     website: "https://www.biomaclab.com"
 repository-code: "https://github.com/BioMacLab/fishnet-meta"
 url: "https://www.biomaclab.com"
